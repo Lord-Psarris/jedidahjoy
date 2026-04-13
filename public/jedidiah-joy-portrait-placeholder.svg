@@ -1,0 +1,19 @@
+<svg width="960" height="1200" viewBox="0 0 960 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="1200" rx="48" fill="url(#paint0_linear_1_2)"/>
+  <circle cx="740" cy="212" r="178" fill="#FFFFFF" fill-opacity="0.26"/>
+  <circle cx="232" cy="996" r="232" fill="#F5D8DF" fill-opacity="0.52"/>
+  <path d="M482 250C382.036 250 301 331.036 301 431C301 490.445 329.679 543.186 373.976 576.191C271.585 621.443 198 720.178 198 836.094V952H766V836.094C766 720.178 692.415 621.443 590.024 576.191C634.321 543.186 663 490.445 663 431C663 331.036 581.964 250 482 250Z" fill="#FFFFFF" fill-opacity="0.5"/>
+  <path d="M482 306C412.964 306 357 361.964 357 431C357 500.036 412.964 556 482 556C551.036 556 607 500.036 607 431C607 361.964 551.036 306 482 306Z" fill="#D9EBF6"/>
+  <path d="M269 952V852.905C269 737.89 362.228 644.662 477.243 644.662H486.757C601.772 644.662 695 737.89 695 852.905V952H269Z" fill="#19354D" fill-opacity="0.2"/>
+  <rect x="86" y="82" width="264" height="74" rx="37" fill="#FFFFFF" fill-opacity="0.72"/>
+  <text x="132" y="128" fill="#19354D" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="0.18em">LEARN WITH</text>
+  <text x="96" y="1048" fill="#19354D" font-family="Georgia, Times New Roman, serif" font-size="72" font-weight="700">Jedidiah Joy</text>
+  <text x="96" y="1100" fill="#516273" font-family="Arial, Helvetica, sans-serif" font-size="28">Instructor portrait placeholder</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="110" y1="86" x2="826" y2="1128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D9EBF6"/>
+      <stop offset="0.58" stop-color="#FFF9F4"/>
+      <stop offset="1" stop-color="#F5D8DF"/>
+    </linearGradient>
+  </defs>
+</svg>
